@@ -17,9 +17,9 @@
 ## Input
 📥 Orgtasks-bot requires only having the images of organic reactions. They should be divided into three images presenting the left, middle and right reaction parts. All the images should be sequentially numerated (see an example image below) and stored on publicly available url.
 
-!(Example reaction images)[/assets/readme/reaction_images.png]
+!(Example reaction images)[/server/assets/readme/reaction_images.png]
 
 
 ## Output
 
-📤 Being provided the required theme, difficulty and size of work the bot generates two files: one for students and one for a teacher. Example files can be viewed by following these links: [students' file](/assets/readme/Alkynes_tasks.pdf) and [teacher's file](/assets/readme/Alkynes_answers.pdf).
+📤 Being provided the required theme, difficulty and size of work the bot generates two files: one for students and one for a teacher. Example files can be viewed by following these links: [students' file](/server/assets/readme/Alkynes_tasks.pdf) and [teacher's file](/server/assets/readme/Alkynes_answers.pdf).
