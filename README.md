@@ -17,7 +17,7 @@
 ## Input
 📥 Orgtasks-bot requires only having the images of organic reactions. They should be divided into three images presenting the left, middle and right reaction parts. All the images should be sequentially numerated (see an example image below) and stored on publicly available url.
 
-!(Example reaction images)[/server/assets/readme/reaction_images.png]
+![Example reaction images](/server/assets/readme/reaction_images.png)
 
 
 ## Output
